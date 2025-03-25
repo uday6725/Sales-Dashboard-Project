@@ -53,3 +53,6 @@ Improve Facebook marketing strategies 📢
 
 Ensure high-demand product availability in peak months (January & December)
 
+
+<img width="960" alt="Screenshot 2023-11-08 164826" src="https://github.com/Nishuyeole12/Netflix-Stock-Analysis/blob/main/Screenshot%202025-03-24%20205901.png">
+
